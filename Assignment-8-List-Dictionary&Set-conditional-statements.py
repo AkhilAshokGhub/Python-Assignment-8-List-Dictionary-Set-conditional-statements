@@ -28,6 +28,7 @@ student_marks = {
     "Divya": 88,
     "Eashan": 65
 }
+print(student_marks["Bhavya"])
 student_marks["Janani"] = 80
 student_marks["Aarav"] = 82
 print(student_marks.keys())
